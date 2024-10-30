@@ -146,7 +146,7 @@ toggleButton.addEventListener("click", function() {
 ---
 ## Additional Resources for Further Learning
 
-Here are some recommended resources to help you dive deeper into HTML, CSS, JavaScript, and APIs for integrating data into your web projects.
+Here are recommended resources to deepen your knowledge in HTML, CSS, JavaScript, Responsive Design, React, and API integration.
 
 ### HTML, CSS, and JavaScript Basics
 - **[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)**: Comprehensive tutorials and references on HTML, CSS, JavaScript, and web development fundamentals.
@@ -159,10 +159,23 @@ Here are some recommended resources to help you dive deeper into HTML, CSS, Java
 - **[Postman Learning Center](https://learning.postman.com/)**: Resources for using Postman to test and interact with APIs, including tutorials for beginners on HTTP requests and APIs.
 - **[RESTful API Tutorial](https://restfulapi.net/)**: A guide to understanding RESTful API concepts, principles, and usage for integrating with various web services.
 
+### Responsive Design
+- **[Responsive Web Design Basics (Google)](https://web.dev/responsive-web-design-basics/)**: Google’s guide to the fundamentals of responsive design, covering breakpoints, flexible layouts, and media queries.
+- **[MDN Web Docs: Responsive Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)**: A detailed guide on making web pages responsive using CSS, including media queries, flexible grids, and responsive images.
+- **[A Complete Guide to Flexbox (CSS-Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**: An in-depth guide on using CSS Flexbox for responsive layouts.
+- **[A Complete Guide to Grid (CSS-Tricks)](https://css-tricks.com/snippets/css/complete-guide-grid/)**: Detailed resource on CSS Grid, ideal for creating complex, responsive layouts.
+
+### Learning React JS
+- **[React Official Documentation](https://reactjs.org/docs/getting-started.html)**: The official React documentation is an excellent starting point with explanations and examples directly from the React team.
+- **[Scrimba - Learn React for Free](https://scrimba.com/learn/learnreact)**: Free, interactive React courses with video tutorials and exercises to get hands-on experience.
+- **[FreeCodeCamp React Course](https://www.freecodecamp.org/learn/front-end-libraries/#react)**: Free, structured course covering React basics, JSX, state, props, and more.
+- **[Codecademy: Learn React](https://www.codecademy.com/learn/react-101)**: Codecademy’s React course, covering everything from the basics to advanced concepts like React Router and managing state.
+- **[Fullstack Open](https://fullstackopen.com/en/)**: A full-stack course with a heavy focus on React, provided by the University of Helsinki. Covers React, Redux, Hooks, GraphQL, and more.
+
 ### Advanced Web Development Topics
 - **[JavaScript.info](https://javascript.info/)**: In-depth tutorials on JavaScript and advanced front-end topics, ideal for building a strong foundation in JavaScript.
 - **[CSS-Tricks](https://css-tricks.com/)**: Tips, tricks, and tutorials on CSS and front-end development, including layout, animations, and responsive design.
-- **[Frontend Masters](https://frontendmasters.com/)**: Premium courses covering web development, including advanced JavaScript, front-end frameworks, and API integration.
+- **[Frontend Masters](https://frontendmasters.com/)**: Premium courses covering web development, including advanced JavaScript, front-end frameworks, responsive design, and API integration.
 
 ---
 
