@@ -143,6 +143,26 @@ toggleButton.addEventListener("click", function() {
   }
 });
 ```
+---
+## Additional Resources for Further Learning
+
+Here are some recommended resources to help you dive deeper into HTML, CSS, JavaScript, and APIs for integrating data into your web projects.
+
+### HTML, CSS, and JavaScript Basics
+- **[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)**: Comprehensive tutorials and references on HTML, CSS, JavaScript, and web development fundamentals.
+- **[FreeCodeCamp](https://www.freecodecamp.org/learn)**: Free online courses with interactive coding exercises on web development, JavaScript, and more.
+- **[W3Schools](https://www.w3schools.com/)**: Beginner-friendly tutorials and examples on web technologies including HTML, CSS, and JavaScript.
+
+### Learning APIs and Data Integration
+- **[MDN Web Docs: Using APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction)**: A beginner’s guide to using and integrating APIs into web applications with JavaScript.
+- **[RapidAPI](https://rapidapi.com/)**: A hub for discovering and connecting to APIs, with tutorials and examples on how to use popular APIs.
+- **[Postman Learning Center](https://learning.postman.com/)**: Resources for using Postman to test and interact with APIs, including tutorials for beginners on HTTP requests and APIs.
+- **[RESTful API Tutorial](https://restfulapi.net/)**: A guide to understanding RESTful API concepts, principles, and usage for integrating with various web services.
+
+### Advanced Web Development Topics
+- **[JavaScript.info](https://javascript.info/)**: In-depth tutorials on JavaScript and advanced front-end topics, ideal for building a strong foundation in JavaScript.
+- **[CSS-Tricks](https://css-tricks.com/)**: Tips, tricks, and tutorials on CSS and front-end development, including layout, animations, and responsive design.
+- **[Frontend Masters](https://frontendmasters.com/)**: Premium courses covering web development, including advanced JavaScript, front-end frameworks, and API integration.
 
 ---
 
