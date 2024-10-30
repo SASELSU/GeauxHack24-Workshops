@@ -1,0 +1,2 @@
+# Workshop 3: Intro To Web Development
+By the end of this workshop, participants will understand the basic structure of web pages using HTML, how to style elements with CSS, and how to add basic interactivity with JavaScript.
