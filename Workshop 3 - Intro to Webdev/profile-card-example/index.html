@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile Card</title>
+  <!-- Link to external CSS file -->
+  <link rel="stylesheet" href="styles.css">
+  <!-- Link to JavaScript file -->
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <!-- Profile card container -->
+  <div class="profile-card">
+    <!-- Profile image -->
+    <img src="https://picsum.photos/200/300" alt="Profile Photo" class="profile-image">
+
+    <!-- Profile information -->
+    <h2 class="name">Alex Johnson</h2>
+    <p class="title">Web Developer & Designer</p>
+    <p class="description">Passionate about creating interactive and visually appealing websites. Currently exploring the latest trends in web development.</p>
+
+    <!-- Button to toggle extra information -->
+    <button id="toggle-info-btn">Show More</button>
+
+    <!-- Extra information hidden by default -->
+    <div id="extra-info" class="extra-info">
+      <h3>Interests</h3>
+      <ul>
+        <li>Coding</li>
+        <li>Photography</li>
+        <li>Hiking</li>
+      </ul>
+      <p>Email: <a href="mailto:alex.johnson@example.com">alex.johnson@example.com</a></p>
+    </div>
+  </div>
+</body>
+</html>

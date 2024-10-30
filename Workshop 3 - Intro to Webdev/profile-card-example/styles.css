@@ -1,0 +1,104 @@
+/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Center the profile card on the page */
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  /* Profile card styling */
+  .profile-card {
+    width: 300px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  /* Profile image styling */
+  .profile-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  /* Name and title styling */
+  .name {
+    font-size: 24px;
+    color: #333;
+    margin-top: 10px;
+  }
+  
+  .title {
+    font-size: 16px;
+    color: #777;
+    margin-bottom: 20px;
+  }
+  
+  /* Description text styling */
+  .description {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 20px;
+    padding: 0 10px;
+  }
+  
+  /* Toggle button styling */
+  #toggle-info-btn {
+    padding: 10px 20px;
+    background-color: #007acc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #toggle-info-btn:hover {
+    background-color: #005ea2;
+  }
+  
+  /* Extra info section, hidden by default */
+  .extra-info {
+    display: none;
+    margin-top: 20px;
+    text-align: left;
+  }
+  
+  .extra-info h3 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .extra-info ul {
+    list-style-type: circle;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .extra-info li {
+    color: #555;
+    font-size: 14px;
+  }
+  
+  .extra-info a {
+    color: #007acc;
+    text-decoration: none;
+  }
+  
+  .extra-info a:hover {
+    text-decoration: underline;
+  }
+  
